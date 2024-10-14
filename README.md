@@ -1,2 +1,2 @@
 # git_test
-hello odin!
+This is to just test my github
